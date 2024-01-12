@@ -13,4 +13,5 @@ fun Application.module() {
     configureRouting()
     configureKoin()
     configurationDefaultHeader()
+    configureStatusPages()
 }
